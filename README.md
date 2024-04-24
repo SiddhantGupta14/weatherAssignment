@@ -10,7 +10,7 @@ Installation
 1 : Clone the repository:
 git clone https://github.com/SiddhantGupta14/weatherassignment.git
 
-2: Install dependencies using npm
+2: Install dependencies using npm:
 npm install
 
 3:Start the development server:
