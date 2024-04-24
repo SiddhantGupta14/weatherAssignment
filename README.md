@@ -1,5 +1,5 @@
 React Weather App
-This is a simple weather application built with React. It allows users to search for weather information by city name and displays the current weather conditions.
+is a simple weather application built with React. It allows users to search for weather information by city name and displays the current weather conditions.
 
 Features
 Search: Users can search for weather information by entering a city name.
